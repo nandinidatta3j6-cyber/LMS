@@ -142,6 +142,7 @@ The main objective of this project is to develop a simple digital library manage
 ## 👨‍💻 Author
 
 **Developed by:** Nandini Datta
+                  Aashutosh Kumar
 
 
 **Project:** Library Management System
