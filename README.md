@@ -147,6 +147,7 @@ The main objective of this project is to develop a simple digital library manage
 **Developed by:** Nandini Datta
                   Aashutosh Kumara
                   Shapla  Rani 
+                  Akash Maity
 
 
 **Project:** Library Management System
