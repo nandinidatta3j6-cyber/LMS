@@ -139,6 +139,9 @@ The main objective of this project is to develop a simple digital library manage
 
 <img width="1919" height="1031" alt="Screenshot 2026-11-05 045930" src="https://github.com/user-attachments/assets/b9d285be-2818-4209-9cc0-7c8f5d8dd92f" />
 
+<img width="1899" height="1028" alt="image" src="https://github.com/user-attachments/assets/46504bc9-3ff5-4066-8ecf-4f03438de41c" />
+
+
 ## 👨‍💻 Author
 
 **Developed by:** Nandini Datta
