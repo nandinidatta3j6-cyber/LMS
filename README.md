@@ -134,6 +134,10 @@ The main objective of this project is to develop a simple digital library manage
 - Book due-date reminders.
 - Fine calculation system.
 - Better user interface.
+##Output:
+
+
+<img width="1919" height="1031" alt="Screenshot 2026-11-05 045930" src="https://github.com/user-attachments/assets/b9d285be-2818-4209-9cc0-7c8f5d8dd92f" />
 
 ## 👨‍💻 Author
 
